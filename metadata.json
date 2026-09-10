@@ -1,0 +1,6 @@
+{
+  "name": "Nocturne Archive",
+  "description": "Sacred dark fantasy archival and curatorial platform for high-fidelity monochrome plates, chromatic oil studies, and nocturnal visual lore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
